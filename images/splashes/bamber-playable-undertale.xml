@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bamber-playable-undertale.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Splash0000" x="2" y="2" width="205" height="205"/>
+	<SubTexture name="Splash0001" x="2" y="209" width="201" height="201" frameX="-2" frameY="-2" frameWidth="205" frameHeight="205"/>
+	<SubTexture name="Splash0002" x="2" y="209" width="201" height="201" frameX="-2" frameY="-2" frameWidth="205" frameHeight="205"/>
+	<SubTexture name="Splash0003" x="205" y="209" width="190" height="190" frameX="-8" frameY="-7" frameWidth="205" frameHeight="205"/>
+	<SubTexture name="Splash0004" x="209" y="2" width="188" height="188" frameX="-9" frameY="-7" frameWidth="205" frameHeight="205"/>
+</TextureAtlas>

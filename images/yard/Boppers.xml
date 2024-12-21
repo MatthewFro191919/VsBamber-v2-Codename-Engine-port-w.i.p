@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boppers.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boppers0000" x="5" y="5" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0001" x="5" y="5" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0002" x="219" y="5" width="212" height="221" frameX="-4" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0003" x="219" y="5" width="212" height="221" frameX="-4" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0004" x="436" y="5" width="214" height="223" frameX="-2" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0005" x="436" y="5" width="214" height="223" frameX="-2" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0006" x="655" y="5" width="216" height="224"/>
+	<SubTexture name="Boppers0007" x="655" y="5" width="216" height="224"/>
+	<SubTexture name="Boppers0008" x="5" y="234" width="216" height="224"/>
+	<SubTexture name="Boppers0009" x="5" y="234" width="216" height="224"/>
+	<SubTexture name="Boppers0010" x="5" y="234" width="216" height="224"/>
+	<SubTexture name="Boppers0011" x="5" y="234" width="216" height="224"/>
+	<SubTexture name="Boppers0012" x="5" y="234" width="216" height="224"/>
+	<SubTexture name="Boppers0013" x="5" y="234" width="216" height="224"/>
+	<SubTexture name="Boppers0014" x="226" y="234" width="214" height="223" frameX="-2" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0015" x="226" y="234" width="214" height="223" frameX="-2" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0016" x="445" y="234" width="212" height="221" frameX="-4" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0017" x="445" y="234" width="212" height="221" frameX="-4" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0018" x="662" y="234" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0019" x="662" y="234" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0020" x="5" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0021" x="5" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0022" x="219" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0023" x="219" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0024" x="219" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0025" x="219" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0026" x="219" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+	<SubTexture name="Boppers0027" x="219" y="463" width="209" height="221" frameX="-7" frameY="0" frameWidth="216" frameHeight="224"/>
+</TextureAtlas>

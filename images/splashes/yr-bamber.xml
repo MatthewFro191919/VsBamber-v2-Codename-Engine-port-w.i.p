@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:8008652d5e964f288a304f6ea4fec708:7ea4ef572a76fb6a77ec0ad9b6e9f60f:38d31cc4804b0070f3315720a025fe5c$ -->
+<TextureAtlas imagePath="yr-bamber.png" width="2048" height="4096">
+    <SubTexture name="Splash10001" x="1355" y="1906" rotated="true" width="117" height="84" frameX="-597" frameY="-263" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10002" x="1403" y="1372" width="632" height="532" frameX="-282" frameY="-68" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10003" x="1403" y="1372" width="632" height="532" frameX="-282" frameY="-68" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10004" x="747" y="2" width="734" height="551" frameX="-278" frameY="-65" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10005" x="747" y="2" width="734" height="551" frameX="-278" frameY="-65" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10006" x="747" y="555" width="717" height="548" frameX="-306" frameY="-41" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10007" x="747" y="555" width="717" height="548" frameX="-306" frameY="-41" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10008" x="1466" y="693" rotated="true" width="555" height="677" frameX="-327" frameY="-43" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10009" x="1466" y="693" rotated="true" width="555" height="677" frameX="-327" frameY="-43" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10010" x="2" y="2" width="743" height="577" frameX="-292" frameY="-25" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10011" x="2" y="2" width="743" height="577" frameX="-292" frameY="-25" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10012" x="1483" y="2" rotated="true" width="563" height="689" frameX="-226" frameY="-160" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash10013" x="1483" y="2" rotated="true" width="563" height="689" frameX="-226" frameY="-160" frameWidth="1240" frameHeight="799"/>
+    <SubTexture name="Splash20001" x="489" y="2123" rotated="true" width="174" height="130" frameX="-524" frameY="-204" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20002" x="2" y="2123" rotated="true" width="485" height="457" frameX="-381" frameY="-65" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20003" x="2" y="2123" rotated="true" width="485" height="457" frameX="-381" frameY="-65" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20004" x="2" y="1615" width="683" height="506" frameX="-247" frameY="-52" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20005" x="2" y="1615" width="683" height="506" frameX="-247" frameY="-52" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20006" x="2" y="581" width="714" height="510" frameX="-220" frameY="-30" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20007" x="2" y="581" width="714" height="510" frameX="-220" frameY="-30" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20008" x="2" y="1093" width="699" height="520" frameX="-219" frameY="-28" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20009" x="2" y="1093" width="699" height="520" frameX="-219" frameY="-28" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20010" x="703" y="1105" width="698" height="516" frameX="-241" frameY="-46" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20011" x="703" y="1105" width="698" height="516" frameX="-241" frameY="-46" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20012" x="687" y="1623" width="666" height="522" frameX="-218" frameY="-120" frameWidth="1127" frameHeight="703"/>
+    <SubTexture name="Splash20013" x="687" y="1623" width="666" height="522" frameX="-218" frameY="-120" frameWidth="1127" frameHeight="703"/>
+</TextureAtlas>

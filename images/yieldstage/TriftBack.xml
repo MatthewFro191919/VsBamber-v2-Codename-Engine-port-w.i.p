@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TriftBack.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TriftBack0000" x="0" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0001" x="0" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0002" x="224" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0003" x="224" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0004" x="448" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0005" x="448" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0006" x="672" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0007" x="672" y="0" width="204" height="263"/>
+	<SubTexture name="TriftBack0008" x="0" y="283" width="204" height="263"/>
+	<SubTexture name="TriftBack0009" x="0" y="283" width="204" height="263"/>
+	<SubTexture name="TriftBack0010" x="0" y="283" width="204" height="263"/>
+	<SubTexture name="TriftBack0011" x="0" y="283" width="204" height="263"/>
+	<SubTexture name="TriftBack0012" x="0" y="283" width="204" height="263"/>
+	<SubTexture name="TriftBack0013" x="224" y="283" width="204" height="263"/>
+	<SubTexture name="TriftBack0014" x="224" y="283" width="204" height="263"/>
+</TextureAtlas>

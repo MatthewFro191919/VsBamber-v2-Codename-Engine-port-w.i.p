@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Text.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Text0000" x="0" y="0" width="108" height="48"/>
+	<SubTexture name="Text0001" x="0" y="0" width="108" height="48"/>
+	<SubTexture name="Text0002" x="128" y="0" width="108" height="48"/>
+	<SubTexture name="Text0003" x="128" y="0" width="108" height="48"/>
+	<SubTexture name="Text0004" x="0" y="68" width="108" height="48"/>
+	<SubTexture name="Text0005" x="0" y="68" width="108" height="48"/>
+	<SubTexture name="Text0006" x="128" y="68" width="108" height="48"/>
+	<SubTexture name="Text0007" x="128" y="68" width="108" height="48"/>
+	<SubTexture name="Text0008" x="0" y="136" width="108" height="48"/>
+	<SubTexture name="Text0009" x="0" y="136" width="108" height="48"/>
+	<SubTexture name="Text0010" x="128" y="136" width="108" height="48"/>
+	<SubTexture name="Text0011" x="128" y="136" width="108" height="48"/>
+	<SubTexture name="Text0012" x="128" y="136" width="108" height="48"/>
+	<SubTexture name="Text0013" x="0" y="204" width="108" height="48"/>
+	<SubTexture name="Text0014" x="0" y="204" width="108" height="48"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.0.4 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="canyouphilmahar.png" width="20" height="32">
+	<SubTexture name="broke" x="0" y="0" width="20" height="16" frameX="-0" frameY="-0" frameWidth="20" frameHeight="16"/>
+	<SubTexture name="normal" x="0" y="16" width="20" height="16" frameX="-0" frameY="-0" frameWidth="20" frameHeight="16"/>
+</TextureAtlas>

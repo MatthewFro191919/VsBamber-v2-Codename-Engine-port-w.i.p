@@ -1,0 +1,19 @@
+{
+    "antialiasing": true,
+    "scale": 0.95,
+    "useColorShader": true,
+    "animations": [
+        {
+            "name": "note splash red 1",
+            "x": -170,
+            "y": -170,
+            "fps": 24
+        },
+        {
+            "name": "note splash red 2",
+            "x": -170,
+            "y": -170,
+            "fps": 24
+        }
+    ]
+}

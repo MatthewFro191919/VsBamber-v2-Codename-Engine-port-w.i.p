@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:eb8e0a9d19520f710850c1b16e8520fa:ebfa3741af150c5b6632d0c463de87c7:807ba27bd0429f8668c82bec35f69780$ -->
+<TextureAtlas imagePath="oldBf.png" width="1024" height="1024">
+    <SubTexture name="note splash red 10000" x="742" y="2" width="194" height="186" frameX="-77" frameY="-87" frameWidth="321" frameHeight="333"/>
+    <SubTexture name="note splash red 10001" x="319" y="2" rotated="true" width="217" height="220" frameX="-61" frameY="-64" frameWidth="321" frameHeight="333"/>
+    <SubTexture name="note splash red 10002" x="295" y="642" width="284" height="293" frameX="-37" frameY="-32" frameWidth="321" frameHeight="333"/>
+    <SubTexture name="note splash red 10003" x="2" y="642" width="291" height="303" frameX="-30" frameY="-30" frameWidth="321" frameHeight="333"/>
+    <SubTexture name="note splash red 20000" x="538" y="2" width="202" height="211" frameX="-69" frameY="-68" frameWidth="315" frameHeight="321"/>
+    <SubTexture name="note splash red 20001" x="302" y="325" width="235" height="240" frameX="-47" frameY="-45" frameWidth="315" frameHeight="321"/>
+    <SubTexture name="note splash red 20002" x="2" y="325" width="298" height="315" frameX="-9" frameY="-6" frameWidth="315" frameHeight="321"/>
+    <SubTexture name="note splash red 20003" x="2" y="2" width="315" height="321"/>
+</TextureAtlas>
