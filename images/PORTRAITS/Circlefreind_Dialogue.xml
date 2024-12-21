@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Circlefreind_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cfnormalTalk0000" x="0" y="0" width="700" height="847"/>
+	<SubTexture name="cfnormalTalk0001" x="0" y="0" width="700" height="847"/>
+	<SubTexture name="cfnormalTalk0002" x="700" y="0" width="700" height="843" frameX="0" frameY="-4" frameWidth="700" frameHeight="847"/>
+	<SubTexture name="cfnormalTalk0003" x="700" y="0" width="700" height="843" frameX="0" frameY="-4" frameWidth="700" frameHeight="847"/>
+	<SubTexture name="cfnormalTalk0004" x="0" y="847" width="700" height="845" frameX="0" frameY="-2" frameWidth="700" frameHeight="845"/>
+	<SubTexture name="cfnormalTalk0005" x="0" y="847" width="700" height="845" frameX="0" frameY="-2" frameWidth="700" frameHeight="845"/>
+	<SubTexture name="StaticcfnormalTalk0000" x="0" y="847" width="700" height="845"/>
+	<SubTexture name="StaticcfnormalTalk0001" x="0" y="847" width="700" height="845"/>
+</TextureAtlas>

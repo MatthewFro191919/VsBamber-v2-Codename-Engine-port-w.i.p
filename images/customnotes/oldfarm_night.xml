@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:60ad170def81371915685d306382d276:7d57b0744d13cb0b1867fbd4f9fdbf23:caba55762220b3323792925d4291f4cb$ -->
+<TextureAtlas imagePath="oldfarm_night.png" width="512" height="512">
+    <SubTexture name="Phone00000" x="321" y="2" rotated="true" width="157" height="154"/>
+    <SubTexture name="Phone10000" x="2" y="2" width="158" height="154"/>
+    <SubTexture name="Phone20000" x="162" y="2" width="157" height="154"/>
+    <SubTexture name="Phone30000" x="2" y="158" width="154" height="157"/>
+</TextureAtlas>

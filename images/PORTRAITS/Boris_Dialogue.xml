@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.0.4 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Boris_Dialogue.png" width="1473" height="1253">
+	<SubTexture name="madLoop0005" x="3" y="3" width="323" height="559" frameX="-0" frameY="-11" frameWidth="333" frameHeight="570"/>
+	<SubTexture name="madStatic" x="332" y="3" width="323" height="559" frameX="-0" frameY="-0" frameWidth="323" frameHeight="559"/>
+	<SubTexture name="madLoop0001" x="3" y="568" width="315" height="569" frameX="-12" frameY="-1" frameWidth="333" frameHeight="570"/>
+	<SubTexture name="borisbruh0000" x="324" y="568" width="431" height="410" frameX="-44" frameY="-12" frameWidth="496" frameHeight="422"/>
+	<SubTexture name="borisnormalTalk0000" x="661" y="3" width="404" height="413" frameX="-0" frameY="-2" frameWidth="404" frameHeight="415"/>
+	<SubTexture name="borisnormalTalk0002" x="1071" y="3" width="399" height="415" frameX="-3" frameY="-0" frameWidth="404" frameHeight="415"/>
+	<SubTexture name="StaticborisnormalTalk0000" x="761" y="424" width="401" height="410" frameX="-0" frameY="-0" frameWidth="401" frameHeight="410"/>
+	<SubTexture name="borisnormalTalk0004" x="761" y="840" width="401" height="410" frameX="-1" frameY="-5" frameWidth="404" frameHeight="415"/>
+	<SubTexture name="madLoop0003" x="1168" y="424" width="286" height="570" frameX="-47" frameY="-0" frameWidth="333" frameHeight="570"/>
+	<SubTexture name="StaticborisnormalTalk0001" x="761" y="424" width="401" height="410" frameX="-0" frameY="-0" frameWidth="401" frameHeight="410"/>
+	<SubTexture name="borisbruh0001" x="324" y="568" width="431" height="410" frameX="-44" frameY="-12" frameWidth="496" frameHeight="422"/>
+	<SubTexture name="borisnormalTalk0001" x="661" y="3" width="404" height="413" frameX="-0" frameY="-2" frameWidth="404" frameHeight="415"/>
+	<SubTexture name="borisnormalTalk0003" x="1071" y="3" width="399" height="415" frameX="-3" frameY="-0" frameWidth="404" frameHeight="415"/>
+	<SubTexture name="borisnormalTalk0005" x="761" y="840" width="401" height="410" frameX="-1" frameY="-5" frameWidth="404" frameHeight="415"/>
+	<SubTexture name="madLoop0002" x="3" y="568" width="315" height="569" frameX="-12" frameY="-1" frameWidth="333" frameHeight="570"/>
+	<SubTexture name="madLoop0004" x="1168" y="424" width="286" height="570" frameX="-47" frameY="-0" frameWidth="333" frameHeight="570"/>
+	<SubTexture name="madLoop0006" x="3" y="3" width="323" height="559" frameX="-0" frameY="-11" frameWidth="333" frameHeight="570"/>
+</TextureAtlas>

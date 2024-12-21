@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yard.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Guitar00000" x="336" y="337" width="165" height="165"/>
+	<SubTexture name="Guitar10000" x="2" y="169" width="166" height="165"/>
+	<SubTexture name="Guitar20000" x="2" y="2" width="166" height="165"/>
+	<SubTexture name="Guitar30000" x="336" y="169" width="165" height="166"/>
+	<SubTexture name="GuitarEnd0000" x="170" y="169" width="60" height="44"/>
+	<SubTexture name="GuitarHold0000" x="232" y="169" width="60" height="43"/>
+	<SubTexture name="Phone00000" x="2" y="336" width="165" height="166"/>
+	<SubTexture name="Phone10000" x="170" y="2" width="166" height="165"/>
+	<SubTexture name="Phone20000" x="338" y="2" width="166" height="165"/>
+	<SubTexture name="Phone30000" x="169" y="336" width="165" height="166"/>
+</TextureAtlas>

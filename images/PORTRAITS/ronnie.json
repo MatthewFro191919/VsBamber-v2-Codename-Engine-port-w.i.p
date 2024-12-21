@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		130,
+		-20
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				-2
+			],
+			"loop_name": "ronnienormalTalk",
+			"idle_name": "StaticronnienormalTalk"
+		},
+		{
+			"loop_name": "ronniesmugTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "StaticronniesmugTalk",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ronniesurprisedlTalk",
+			"idle_offsets": [
+				10,
+				-40
+			],
+			"idle_name": "StaticronniesurprisedlTalk",
+			"anim": "surprised",
+			"loop_offsets": [
+				10,
+				-40
+			]
+		},
+		{
+			"loop_name": "ronniehorrifiedTalk",
+			"idle_offsets": [
+				0,
+				-15
+			],
+			"idle_name": "StaticronniehorrifiedTalk",
+			"anim": "joever",
+			"loop_offsets": [
+				0,
+				-15
+			]
+		}
+	],
+	"image": "Ronnie_Dialogue"
+}

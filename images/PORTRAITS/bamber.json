@@ -1,0 +1,115 @@
+{
+	"position": [
+		185,
+		85
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "Bamber_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-17,
+				-20
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neutral Static",
+			"loop_name": "Neutral Loop"
+		},
+		{
+			"loop_offsets": [
+				9,
+				-40
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				-8,
+				-81
+			],
+			"loop_name": "Annoyed Loop",
+			"idle_name": "Annoyed Static"
+		},
+		{
+			"loop_offsets": [
+				-59,
+				23
+			],
+			"anim": "flabbergasted",
+			"idle_offsets": [
+				-61,
+				-26
+			],
+			"loop_name": "Flabbergasted Loop",
+			"idle_name": "Flabbergasted Static"
+		},
+		{
+			"loop_offsets": [
+				-5,
+				8
+			],
+			"anim": "laughing",
+			"idle_offsets": [
+				-4,
+				8
+			],
+			"loop_name": "Laughing Loop",
+			"idle_name": "Laughing Static"
+		},
+		{
+			"loop_offsets": [
+				-26,
+				4
+			],
+			"anim": "poker",
+			"idle_offsets": [
+				-43,
+				-25
+			],
+			"loop_name": "Poker Loop",
+			"idle_name": "Poker Static"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				13
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-33,
+				-5
+			],
+			"loop_name": "Happy Loop",
+			"idle_name": "Happy Static"
+		},
+		{
+			"loop_offsets": [
+				-21,
+				-15
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				-33,
+				-44
+			],
+			"loop_name": "Mad Loop",
+			"idle_name": "Mad Static"
+		},
+		{
+			"loop_offsets": [
+				-37,
+				-8
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-37,
+				-8
+			],
+			"loop_name": "Confused Loop",
+			"idle_name": "Confused Static"
+		}
+	]
+}

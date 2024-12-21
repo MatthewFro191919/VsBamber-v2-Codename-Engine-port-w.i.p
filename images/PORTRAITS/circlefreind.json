@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		-190
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				-2
+			],
+			"loop_name": "cfnormalTalk",
+			"idle_name": "StaticcfnormalTalk"
+		}
+	],
+	"image": "Circlefreind_Dialogue"
+}

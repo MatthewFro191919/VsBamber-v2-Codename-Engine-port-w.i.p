@@ -1,0 +1,50 @@
+{
+	"position": [
+		100,
+		100
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Boris_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-5
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "StaticborisnormalTalk",
+			"loop_name": "borisnormalTalk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "borisbruh",
+			"idle_name": "borisbruh"
+		},
+		{
+			"loop_name": "madLoop",
+			"idle_offsets": [
+				-99,
+				123
+			],
+			"idle_name": "madStatic",
+			"anim": "mad",
+			"loop_offsets": [
+				-98,
+				133
+			]
+		}
+	]
+}

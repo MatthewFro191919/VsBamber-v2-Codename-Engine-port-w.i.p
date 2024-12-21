@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:bf806bf3f1ac9ab1143a74c1ddc1fc71:e4d33c14b06340cefb2d35bc96a4f2c7:291fc958905ca5d358b3578890242ebf$ -->
+<TextureAtlas imagePath="OLDBamber_Dialogue.png" width="1024" height="2048">
+    <SubTexture name="BAMBER ANNOYED LOOP0001" x="675" y="1251" rotated="true" width="322" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="322"/>
+    <SubTexture name="BAMBER ANNOYED LOOP0002" x="322" y="1358" rotated="true" width="322" height="217" frameX="0" frameY="0" frameWidth="238" frameHeight="322"/>
+    <SubTexture name="BAMBER ANNOYED LOOP0003" x="0" y="1812" rotated="true" width="310" height="232" frameX="0" frameY="-12" frameWidth="238" frameHeight="322"/>
+    <SubTexture name="BAMBER ANNOYED LOOP0004" x="0" y="1812" rotated="true" width="310" height="232" frameX="0" frameY="-12" frameWidth="238" frameHeight="322"/>
+    <SubTexture name="BAMBER ANNOYED LOOP0005" x="322" y="1575" rotated="true" width="313" height="237" frameX="-1" frameY="-9" frameWidth="238" frameHeight="322"/>
+    <SubTexture name="BAMBER ANNOYED LOOP0006" x="322" y="1575" rotated="true" width="313" height="237" frameX="-1" frameY="-9" frameWidth="238" frameHeight="322"/>
+    <SubTexture name="BAMBER ANNOYED0001" x="635" y="1777" rotated="true" width="313" height="237"/>
+    <SubTexture name="BAMBER ANNOYED0002" x="635" y="1777" rotated="true" width="313" height="237"/>
+    <SubTexture name="BAMBER CONFUSED LOOP0001" x="0" y="0" width="373" height="321" frameX="-1" frameY="0" frameWidth="374" frameHeight="321"/>
+    <SubTexture name="BAMBER CONFUSED LOOP0002" x="0" y="0" width="373" height="321" frameX="-1" frameY="0" frameWidth="374" frameHeight="321"/>
+    <SubTexture name="BAMBER CONFUSED LOOP0003" x="373" y="0" width="360" height="316" frameX="-13" frameY="-5" frameWidth="374" frameHeight="321"/>
+    <SubTexture name="BAMBER CONFUSED LOOP0004" x="373" y="0" width="360" height="316" frameX="-13" frameY="-5" frameWidth="374" frameHeight="321"/>
+    <SubTexture name="BAMBER CONFUSED LOOP0005" x="373" y="316" width="353" height="315" frameX="-18" frameY="-6" frameWidth="374" frameHeight="321"/>
+    <SubTexture name="BAMBER CONFUSED LOOP0006" x="373" y="316" width="353" height="315" frameX="-18" frameY="-6" frameWidth="374" frameHeight="321"/>
+    <SubTexture name="BAMBER CONFUSED0001" x="0" y="321" width="353" height="315" frameX="-11" frameY="0" frameWidth="364" frameHeight="315"/>
+    <SubTexture name="BAMBER CONFUSED0002" x="0" y="321" width="353" height="315" frameX="-11" frameY="0" frameWidth="364" frameHeight="315"/>
+    <SubTexture name="BAMBER FLABBERGASTED LOOP0001" x="0" y="1350" width="322" height="318" frameX="0" frameY="0" frameWidth="338" frameHeight="318"/>
+    <SubTexture name="BAMBER FLABBERGASTED LOOP0002" x="0" y="1350" width="322" height="318" frameX="0" frameY="0" frameWidth="338" frameHeight="318"/>
+    <SubTexture name="BAMBER FLABBERGASTED LOOP0003" x="338" y="1052" width="337" height="306" frameX="0" frameY="-12" frameWidth="338" frameHeight="318"/>
+    <SubTexture name="BAMBER FLABBERGASTED LOOP0004" x="338" y="1052" width="337" height="306" frameX="0" frameY="-12" frameWidth="338" frameHeight="318"/>
+    <SubTexture name="BAMBER FLABBERGASTED LOOP0005" x="683" y="945" width="338" height="306" frameX="0" frameY="-12" frameWidth="338" frameHeight="318"/>
+    <SubTexture name="BAMBER FLABBERGASTED LOOP0006" x="683" y="945" width="338" height="306" frameX="0" frameY="-12" frameWidth="338" frameHeight="318"/>
+    <SubTexture name="BAMBER FLABBERGASTED0001" x="0" y="850" width="338" height="306"/>
+    <SubTexture name="BAMBER FLABBERGASTED0002" x="0" y="850" width="338" height="306"/>
+    <SubTexture name="BAMBER LAUGH LOOP0001" x="0" y="1156" rotated="true" width="323" height="194" frameX="-33" frameY="-23" frameWidth="227" frameHeight="346"/>
+    <SubTexture name="BAMBER LAUGH LOOP0002" x="0" y="1156" rotated="true" width="323" height="194" frameX="-33" frameY="-23" frameWidth="227" frameHeight="346"/>
+    <SubTexture name="BAMBER LAUGH LOOP0003" x="353" y="631" rotated="true" width="346" height="209" frameX="-7" frameY="0" frameWidth="227" frameHeight="346"/>
+    <SubTexture name="BAMBER LAUGH LOOP0004" x="353" y="631" rotated="true" width="346" height="209" frameX="-7" frameY="0" frameWidth="227" frameHeight="346"/>
+    <SubTexture name="BAMBER LAUGH LOOP0005" x="0" y="636" rotated="true" width="342" height="214" frameX="0" frameY="-4" frameWidth="227" frameHeight="346"/>
+    <SubTexture name="BAMBER LAUGH LOOP0006" x="0" y="636" rotated="true" width="342" height="214" frameX="0" frameY="-4" frameWidth="227" frameHeight="346"/>
+    <SubTexture name="BAMBER LAUGH0001" x="342" y="840" rotated="true" width="341" height="212"/>
+    <SubTexture name="BAMBER LAUGH0002" x="342" y="840" rotated="true" width="341" height="212"/>
+    <SubTexture name="BAMBER LOOP0001" x="644" y="1468" rotated="true" width="321" height="309"/>
+    <SubTexture name="BAMBER LOOP0002" x="644" y="1468" rotated="true" width="321" height="309"/>
+    <SubTexture name="BAMBER LOOP0003" x="726" y="630" width="295" height="315" frameX="-4" frameY="-6" frameWidth="309" frameHeight="321"/>
+    <SubTexture name="BAMBER LOOP0004" x="726" y="630" width="295" height="315" frameX="-4" frameY="-6" frameWidth="309" frameHeight="321"/>
+    <SubTexture name="BAMBER LOOP0005" x="733" y="0" width="288" height="315" frameX="-7" frameY="-6" frameWidth="309" frameHeight="321"/>
+    <SubTexture name="BAMBER LOOP0006" x="733" y="0" width="288" height="315" frameX="-7" frameY="-6" frameWidth="309" frameHeight="321"/>
+    <SubTexture name="BAMBER0001" x="733" y="315" width="288" height="315"/>
+    <SubTexture name="BAMBER0002" x="733" y="315" width="288" height="315"/>
+</TextureAtlas>
