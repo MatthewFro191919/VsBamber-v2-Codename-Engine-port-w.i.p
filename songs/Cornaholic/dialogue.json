@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "neutral",
+			"text": "That was pretty tight!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "I agree! It was quite entertaining!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber"
+		},
+		{
+			"expression": "smug",
+			"text": "Aye, come on! Let's do one more!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Hmm. Alright. We can sing again I suppose.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber"
+		},
+		{
+			"expression": "surprised",
+			"text": "Awesome!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shrug",
+			"text": "Make sure to bring a challenge to the table!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "OH YOU WANT A CHALLENGE?! I'LL GIVE YA A CHALLENGE!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber"
+		},
+		{
+			"expression": "neutral",
+			"text": "That's the spirit!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

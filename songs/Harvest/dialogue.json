@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Damn, beaten again..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "That was a pretty long one"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Yeah, how about we change the pace a bit?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Alright, I'm down!"
+		}
+	]
+}

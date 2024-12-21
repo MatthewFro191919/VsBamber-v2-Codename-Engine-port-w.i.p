@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "face",
+	"parsedColor": -7179779,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Cornaholic",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 130,
+	"name": "Cornaholic"
+}

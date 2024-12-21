@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "neutral",
+			"text": "who are you and what are you two doing in my farm?",
+			"boxState": "normal",
+			"portrait": "bamber",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "surprised",
+			"text": "holy bingle is that bambi from dave and bambi",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "...name's bamber",
+			"boxState": "normal",
+			"portrait": "bamber",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...the sign says \"BAMBIs farm\" though..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "as odd as it seems, i misspelled my own name, coincidentally to the name you talk of..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "hold your horses, do you maybe, just maybe have a friend who's a disabled school teacher on a wheelchair?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "normal",
+			"expression": "laughing",
+			"text": "I think you're speaking of Davey! My best friend! He's not particularly disabled, but he sure is a lazy piece of crap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "so what you're saying is that I won't find anyone named Dave and Bambi?"
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bamber",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "uhhh no not really"
+		},
+		{
+			"expression": "slouching",
+			"text": "well crap. I guess Double D sent us elsewhere ",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "wait, are you saying there are other alternative versions of me and Davey?",
+			"boxState": "normal",
+			"portrait": "bamber",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "Uhh yeah basically",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "...that scares me.",
+			"boxState": "weak",
+			"portrait": "bamber",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "don't worry you're one of the few who can actually sing properly",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "I assume that's a good thing?",
+			"boxState": "normal",
+			"portrait": "bamber",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shrug",
+			"text": "well at least you're not making microwave noises which is definitely a step in the right direction",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "so what are you planning to do now?",
+			"boxState": "normal",
+			"portrait": "bamber",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smug",
+			"text": "We should definitely sing.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "laughing",
+			"text": "Hah! I have the perfect track to start us off with!",
+			"boxState": "normal",
+			"portrait": "bamber",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smug",
+			"text": "Bring it on.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

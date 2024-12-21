@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"parsedColor": -7179779,
+	"name": "Yield",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Yield",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}
