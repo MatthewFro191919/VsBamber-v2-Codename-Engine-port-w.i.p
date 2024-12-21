@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:30b8248209137f973edf371934ea47e8:8ee9decdaad2d9374b5b1763ee9c6d3d:b4e141fe379d97bb9a79b4cfd8a62eaf$ -->
+<TextureAtlas imagePath="four.png" width="3841" height="3996">
+    <SubTexture name="Four_Action" x="2" y="2" width="964" height="583" frameX="-19" frameY="-24" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Appearance" x="592" y="587" width="507" height="579" frameX="-451" frameY="-15" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Confirm0001" x="2" y="3537" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0002" x="2127" y="1087" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0003" x="2127" y="1532" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0004" x="2127" y="1977" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0005" x="2734" y="2216" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0006" x="3341" y="2216" width="443" height="605" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0007" x="1028" y="1762" width="443" height="605" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0008" x="3341" y="2216" width="443" height="605" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0009" x="2734" y="2216" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0010" x="2127" y="1977" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0011" x="2127" y="1532" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0012" x="2127" y="1087" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0013" x="2" y="3537" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0014" x="1622" y="2351" width="443" height="605" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0015" x="2661" y="2661" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0016" x="2661" y="3106" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0017" x="1203" y="3551" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0018" x="1810" y="3551" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0019" x="2417" y="3551" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0020" x="3024" y="3551" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0021" x="1109" y="2958" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0022" x="2417" y="3551" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0023" x="1203" y="3551" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0024" x="2661" y="2661" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Confirm0025" x="2" y="3537" rotated="true" width="605" height="443" frameX="-500" frameY="0" frameWidth="1060" frameHeight="671"/>
+    <SubTexture name="Four_Lesson0001" x="2" y="1755" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0002" x="2723" y="2" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0003" x="2" y="2349" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0004" x="2" y="2943" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0005" x="3317" y="2" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0006" x="566" y="1168" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0007" x="515" y="1762" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0008" x="515" y="2356" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0009" x="1101" y="572" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0010" x="1614" y="569" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0011" x="2127" y="574" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0012" x="515" y="2950" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0013" x="609" y="3463" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0014" x="2723" y="515" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0015" x="3317" y="596" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0016" x="2734" y="1028" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0017" x="3247" y="1190" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0018" x="1614" y="1163" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0019" x="1101" y="1166" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0020" x="2" y="1755" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0021" x="2734" y="1622" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0022" x="3247" y="1703" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0023" x="1614" y="1757" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0024" x="1028" y="2369" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0025" x="2734" y="1622" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0026" x="2" y="1755" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0027" x="2067" y="2422" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0028" x="2067" y="2935" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0029" x="3268" y="2823" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0030" x="2067" y="2935" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0031" x="2067" y="2422" rotated="true" width="592" height="511" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Lesson0032" x="2" y="1755" width="511" height="592" frameX="-318" frameY="-3" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0001" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0002" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0003" x="1557" y="2" width="588" height="565" frameX="-314" frameY="-31" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0004" x="1557" y="2" width="588" height="565" frameX="-314" frameY="-31" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0005" x="1557" y="2" width="588" height="565" frameX="-314" frameY="-31" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0006" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0007" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0008" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0009" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0010" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0011" x="968" y="2" width="587" height="568" frameX="-307" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0012" x="1557" y="2" width="588" height="565" frameX="-314" frameY="-31" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0013" x="1557" y="2" width="588" height="565" frameX="-314" frameY="-31" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0014" x="1557" y="2" width="588" height="565" frameX="-314" frameY="-31" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0015" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0016" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0017" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0018" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0019" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0020" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0021" x="2147" y="2" rotated="true" width="574" height="570" frameX="-319" frameY="-23" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0022" x="2147" y="2" rotated="true" width="574" height="570" frameX="-319" frameY="-23" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0023" x="2147" y="2" rotated="true" width="574" height="570" frameX="-319" frameY="-23" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0024" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0025" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0026" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0027" x="2" y="1161" rotated="true" width="562" height="592" frameX="-307" frameY="-29" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0028" x="968" y="2" width="587" height="568" frameX="-307" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0029" x="968" y="2" width="587" height="568" frameX="-307" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0030" x="968" y="2" width="587" height="568" frameX="-307" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0031" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0032" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0033" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0034" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0035" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+    <SubTexture name="Four_Punish0036" x="2" y="587" width="588" height="572" frameX="-312" frameY="-26" frameWidth="1060" frameHeight="663"/>
+</TextureAtlas>

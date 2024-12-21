@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="battlegrounds.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shield instance 10000" x="185" y="2" width="170" height="189"/>
+	<SubTexture name="shield instance 10001" x="185" y="2" width="170" height="189"/>
+	<SubTexture name="shield instance 10002" x="185" y="2" width="170" height="189"/>
+	<SubTexture name="shield instance 10003" x="185" y="2" width="170" height="189"/>
+	<SubTexture name="shield instance 10004" x="185" y="2" width="170" height="189"/>
+	<SubTexture name="strike instance 10000" x="2" y="2" width="181" height="190"/>
+	<SubTexture name="strike instance 10001" x="2" y="2" width="181" height="190"/>
+	<SubTexture name="strike instance 10002" x="2" y="2" width="181" height="190"/>
+	<SubTexture name="strike instance 10003" x="2" y="2" width="181" height="190"/>
+	<SubTexture name="strike instance 10004" x="2" y="2" width="181" height="190"/>
+</TextureAtlas>

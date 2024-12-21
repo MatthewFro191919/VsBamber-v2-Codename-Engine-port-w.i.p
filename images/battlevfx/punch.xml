@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:232ac679d3913812bab077cac11b9d55:96eac28cbb59c185b0ca8417f42c8932:d2cec7c4eec974c996c0f56f53de73a9$ -->
+<TextureAtlas imagePath="punch.png" width="512" height="1024">
+    <SubTexture name="Punch10001" x="491" y="209" width="13" height="26" frameX="-114" frameY="-120" frameWidth="222" frameHeight="229"/>
+    <SubTexture name="Punch10002" x="2" y="851" rotated="true" width="145" height="150" frameX="-41" frameY="-53" frameWidth="222" frameHeight="229"/>
+    <SubTexture name="Punch10003" x="293" y="2" rotated="true" width="213" height="205" frameX="-6" frameY="-7" frameWidth="222" frameHeight="229"/>
+    <SubTexture name="Punch20001" x="236" y="710" width="101" height="112" frameX="-98" frameY="-102" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch20002" x="2" y="621" rotated="true" width="232" height="228" frameX="-26" frameY="-24" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch20003" x="248" y="474" rotated="true" width="242" height="234" frameX="-13" frameY="-18" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch30001" x="339" y="710" rotated="true" width="102" height="92" frameX="-95" frameY="-131" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch30002" x="2" y="222" rotated="true" width="259" height="162" frameX="-4" frameY="-27" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch40001" x="443" y="710" rotated="true" width="62" height="81" frameX="-188" frameY="-137" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch40002" x="2" y="2" width="289" height="218" frameX="0" frameY="-53" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch40003" x="293" y="209" width="196" height="263" frameX="-21" frameY="-16" frameWidth="305" frameHeight="300"/>
+    <SubTexture name="Punch50001" x="149" y="851" width="101" height="132" frameX="-78" frameY="-79" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Punch50002" x="2" y="386" rotated="true" width="244" height="233" frameX="-25" frameY="-31" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>

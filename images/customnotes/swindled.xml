@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swindled.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Phone00000" x="170" y="170" width="165" height="166"/>
+	<SubTexture name="Phone10000" x="2" y="169" width="166" height="165"/>
+	<SubTexture name="Phone20000" x="2" y="2" width="166" height="165"/>
+	<SubTexture name="Phone30000" x="170" y="2" width="165" height="166"/>
+</TextureAtlas>
