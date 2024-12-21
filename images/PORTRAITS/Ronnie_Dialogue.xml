@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ronnie_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ronniehorrifiedTalk0000" x="0" y="0" width="368" height="640" frameX="-7" frameY="0" frameWidth="375" frameHeight="640"/>
+	<SubTexture name="ronniehorrifiedTalk0001" x="0" y="0" width="368" height="640" frameX="-7" frameY="0" frameWidth="375" frameHeight="640"/>
+	<SubTexture name="ronniehorrifiedTalk0002" x="368" y="0" width="372" height="632" frameX="0" frameY="-8" frameWidth="375" frameHeight="640"/>
+	<SubTexture name="ronniehorrifiedTalk0003" x="368" y="0" width="372" height="632" frameX="0" frameY="-8" frameWidth="375" frameHeight="640"/>
+	<SubTexture name="ronniehorrifiedTalk0004" x="740" y="0" width="369" height="635" frameX="-1" frameY="-5" frameWidth="375" frameHeight="640"/>
+	<SubTexture name="ronniehorrifiedTalk0005" x="740" y="0" width="369" height="635" frameX="-1" frameY="-5" frameWidth="375" frameHeight="640"/>
+	<SubTexture name="StaticronniehorrifiedTalk0000" x="1109" y="0" width="369" height="635"/>
+	<SubTexture name="StaticronniehorrifiedTalk0001" x="1109" y="0" width="369" height="635"/>
+	<SubTexture name="StaticronniehorrifiedTalk0002" x="1478" y="0" width="369" height="635"/>
+	<SubTexture name="StaticronniehorrifiedTalk0003" x="1478" y="0" width="369" height="635"/>
+	<SubTexture name="StaticronniehorrifiedTalk0004" x="0" y="640" width="369" height="635"/>
+	<SubTexture name="StaticronniehorrifiedTalk0005" x="0" y="640" width="369" height="635"/>
+	<SubTexture name="ronnienormalTalk0000" x="369" y="640" width="383" height="674" frameX="-5" frameY="0" frameWidth="393" frameHeight="674"/>
+	<SubTexture name="ronnienormalTalk0001" x="369" y="640" width="383" height="674" frameX="-5" frameY="0" frameWidth="393" frameHeight="674"/>
+	<SubTexture name="ronnienormalTalk0002" x="752" y="640" width="393" height="670" frameX="0" frameY="-4" frameWidth="393" frameHeight="674"/>
+	<SubTexture name="ronnienormalTalk0003" x="752" y="640" width="393" height="670" frameX="0" frameY="-4" frameWidth="393" frameHeight="674"/>
+	<SubTexture name="ronnienormalTalk0004" x="1145" y="640" width="391" height="671" frameX="-1" frameY="-3" frameWidth="393" frameHeight="674"/>
+	<SubTexture name="ronnienormalTalk0005" x="1145" y="640" width="391" height="671" frameX="-1" frameY="-3" frameWidth="393" frameHeight="674"/>
+	<SubTexture name="StaticronnienormalTalk0000" x="1536" y="640" width="393" height="670"/>
+	<SubTexture name="StaticronnienormalTalk0001" x="1536" y="640" width="393" height="670"/>
+	<SubTexture name="StaticronnienormalTalk0002" x="1536" y="640" width="393" height="670"/>
+	<SubTexture name="ronniesmugTalk0000" x="0" y="1314" width="383" height="672" frameX="-2" frameY="0" frameWidth="387" frameHeight="672"/>
+	<SubTexture name="ronniesmugTalk0001" x="0" y="1314" width="383" height="672" frameX="-2" frameY="0" frameWidth="387" frameHeight="672"/>
+	<SubTexture name="ronniesmugTalk0002" x="383" y="1314" width="387" height="669" frameX="0" frameY="-3" frameWidth="387" frameHeight="672"/>
+	<SubTexture name="ronniesmugTalk0003" x="383" y="1314" width="387" height="669" frameX="0" frameY="-3" frameWidth="387" frameHeight="672"/>
+	<SubTexture name="ronniesmugTalk0004" x="770" y="1314" width="385" height="669" frameX="-1" frameY="-2" frameWidth="387" frameHeight="672"/>
+	<SubTexture name="ronniesmugTalk0005" x="770" y="1314" width="385" height="669" frameX="-1" frameY="-2" frameWidth="387" frameHeight="672"/>
+	<SubTexture name="StaticronniesmugTalk0000" x="1155" y="1314" width="385" height="670"/>
+	<SubTexture name="StaticronniesmugTalk0001" x="1155" y="1314" width="385" height="670"/>
+	<SubTexture name="ronniesurprisedlTalk0000" x="1540" y="1314" width="496" height="597" frameX="0" frameY="-1" frameWidth="498" frameHeight="599"/>
+	<SubTexture name="ronniesurprisedlTalk0001" x="1540" y="1314" width="496" height="597" frameX="0" frameY="-1" frameWidth="498" frameHeight="599"/>
+	<SubTexture name="ronniesurprisedlTalk0002" x="0" y="1986" width="497" height="599" frameX="-1" frameY="0" frameWidth="498" frameHeight="599"/>
+	<SubTexture name="ronniesurprisedlTalk0003" x="0" y="1986" width="497" height="599" frameX="-1" frameY="0" frameWidth="498" frameHeight="599"/>
+	<SubTexture name="ronniesurprisedlTalk0004" x="497" y="1986" width="497" height="598" frameX="-1" frameY="0" frameWidth="498" frameHeight="599"/>
+	<SubTexture name="ronniesurprisedlTalk0005" x="497" y="1986" width="497" height="598" frameX="-1" frameY="0" frameWidth="498" frameHeight="599"/>
+	<SubTexture name="StaticronniesurprisedlTalk0000" x="994" y="1986" width="497" height="598" frameX="0" frameY="-1" frameWidth="497" frameHeight="599"/>
+	<SubTexture name="StaticronniesurprisedlTalk0001" x="994" y="1986" width="497" height="598" frameX="0" frameY="-1" frameWidth="497" frameHeight="599"/>
+	<SubTexture name="StaticronniesurprisedlTalk0002" x="1491" y="1986" width="497" height="599"/>
+	<SubTexture name="StaticronniesurprisedlTalk0003" x="1491" y="1986" width="497" height="599"/>
+	<SubTexture name="StaticronniesurprisedlTalk0004" x="0" y="2585" width="497" height="599"/>
+	<SubTexture name="StaticronniesurprisedlTalk0005" x="0" y="2585" width="497" height="599"/>
+</TextureAtlas>

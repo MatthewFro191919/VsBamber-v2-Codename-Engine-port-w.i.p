@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		140
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-7,
+				-4
+			],
+			"loop_name": "BAMBER LOOP",
+			"idle_name": "BAMBER0"
+		},
+		{
+			"loop_name": "BAMBER ANNOYED LOOP",
+			"idle_offsets": [
+				0,
+				-6
+			],
+			"idle_name": "BAMBER ANNOYED0",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BAMBER CONFUSED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BAMBER CONFUSED0",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BAMBER FLABBERGASTED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BAMBER FLABBERGASTED0",
+			"anim": "flabbergasted",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BAMBER LAUGH LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BAMBER LAUGH0",
+			"anim": "laugh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "OLDBamber_Dialogue"
+}

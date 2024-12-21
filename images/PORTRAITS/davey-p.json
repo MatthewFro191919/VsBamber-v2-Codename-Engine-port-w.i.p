@@ -1,0 +1,102 @@
+{
+	"position": [
+		200,
+		-220
+	],
+	"dialogue_pos": "right",
+	"scale": 1,
+	"image": "Dialogue_DaveyFLIPPED",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"idle_offsets": [
+				43,
+				-108
+			],
+			"loop_name": "Normal Loop",
+			"idle_name": "Normal Static"
+		},
+		{
+			"loop_name": "Frown Loop",
+			"idle_offsets": [
+				46,
+				-108
+			],
+			"idle_name": "Frown Static",
+			"anim": "frown",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Confused Loop",
+			"idle_offsets": [
+				0,
+				-142
+			],
+			"idle_name": "Confused Static",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				-14
+			]
+		},
+		{
+			"loop_name": "Exclaim Loop",
+			"idle_offsets": [
+				0,
+				14
+			],
+			"idle_name": "Exclaim Static",
+			"anim": "exclaim",
+			"loop_offsets": [
+				0,
+				14
+			]
+		},
+		{
+			"loop_name": "Teasing Loop",
+			"idle_offsets": [
+				142,
+				-152
+			],
+			"idle_name": "Teasing Static",
+			"anim": "teasing",
+			"loop_offsets": [
+				0,
+				-16
+			]
+		},
+		{
+			"loop_name": "Wave Loop",
+			"idle_offsets": [
+				0,
+				-1
+			],
+			"idle_name": "Wave Static",
+			"anim": "wave",
+			"loop_offsets": [
+				0,
+				2
+			]
+		},
+		{
+			"loop_name": "Worried Loop",
+			"idle_offsets": [
+				7,
+				-158
+			],
+			"idle_name": "Worried Static",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				-3
+			]
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-40,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-15
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Static_Neutral",
+			"loop_name": "Loop_Neutral"
+		},
+		{
+			"idle_offsets": [
+				-2,
+				-9
+			],
+			"anim": "eyeroll",
+			"loop_offsets": [
+				-1,
+				-2
+			],
+			"idle_name": "Static_Eyeroll",
+			"loop_name": "Loop_Eyeroll"
+		},
+		{
+			"idle_offsets": [
+				97,
+				19
+			],
+			"anim": "surprised",
+			"loop_offsets": [
+				119,
+				36
+			],
+			"idle_name": "Static_Surprise",
+			"loop_name": "Loop_Surprise"
+		},
+		{
+			"idle_offsets": [
+				65,
+				-44
+			],
+			"anim": "slouching",
+			"loop_offsets": [
+				94,
+				-17
+			],
+			"idle_name": "Static_Slouching",
+			"loop_name": "Loop_Slouching"
+		},
+		{
+			"loop_offsets": [
+				20,
+				14
+			],
+			"anim": "questioning",
+			"idle_offsets": [
+				1,
+				5
+			],
+			"loop_name": "Loop_Questioning",
+			"idle_name": "Static_Questioning"
+		},
+		{
+			"loop_name": "Loop_Confused",
+			"idle_offsets": [
+				1,
+				-6
+			],
+			"idle_name": "Static_Confused",
+			"anim": "confused",
+			"loop_offsets": [
+				1,
+				12
+			]
+		},
+		{
+			"loop_name": "Loop_Smug",
+			"idle_offsets": [
+				-19,
+				-35
+			],
+			"idle_name": "Static_Smug",
+			"anim": "smug",
+			"loop_offsets": [
+				-16,
+				-28
+			]
+		},
+		{
+			"loop_name": "Loop_Shrugging",
+			"idle_offsets": [
+				1,
+				7
+			],
+			"idle_name": "Static_Shrugging",
+			"anim": "shrug",
+			"loop_offsets": [
+				3,
+				19
+			]
+		}
+	],
+	"image": "Dialogue_BF"
+}

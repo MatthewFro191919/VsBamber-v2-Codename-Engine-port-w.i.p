@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.45,
+	"image": "screwed-bamber",
+	"animations": [
+		{
+			"idle_offsets": [
+				-187,
+				-112
+			],
+			"loop_offsets": [
+				-142,
+				-113
+			],
+			"anim": "talk",
+			"idle_name": "talk-idle",
+			"loop_name": "talk-loop"
+		}
+	]
+}

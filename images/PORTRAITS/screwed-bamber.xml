@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screwed-bamber.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk-idle instance 10000" x="4" y="4" width="265" height="267"/>
+	<SubTexture name="talk-idle instance 10001" x="289" y="4" width="265" height="267"/>
+	<SubTexture name="talk-idle instance 10002" x="574" y="4" width="265" height="267"/>
+	<SubTexture name="talk-idle instance 10003" x="859" y="4" width="265" height="267"/>
+	<SubTexture name="talk-idle instance 10004" x="574" y="4" width="265" height="267"/>
+	<SubTexture name="talk-idle instance 10005" x="859" y="4" width="265" height="267"/>
+	<SubTexture name="talk-idle instance 10006" x="4" y="291" width="265" height="267"/>
+	<SubTexture name="talk-loop instance 10000" x="289" y="291" width="345" height="313"/>
+	<SubTexture name="talk-loop instance 10001" x="654" y="291" width="345" height="313"/>
+	<SubTexture name="talk-loop instance 10002" x="654" y="291" width="345" height="313"/>
+	<SubTexture name="talk-loop instance 10003" x="4" y="624" width="345" height="313"/>
+	<SubTexture name="talk-loop instance 10004" x="4" y="624" width="345" height="313"/>
+	<SubTexture name="talk-loop instance 10005" x="369" y="624" width="345" height="313"/>
+	<SubTexture name="talk-loop instance 10006" x="369" y="624" width="345" height="313"/>
+</TextureAtlas>

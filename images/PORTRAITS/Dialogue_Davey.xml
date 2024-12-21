@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:57a5436cef1c274d96e1d5f190ead86a:564d9fd838567d864ed2fc9f1805467c:815da4103a2997df35606b284a015ec6$ -->
+<TextureAtlas imagePath="Dialogue_Davey.png" width="4096" height="4096">
+    <SubTexture name="Confused Loop0001" x="2818" y="565" rotated="true" width="619" height="561" frameX="-166" frameY="-214" frameWidth="740" frameHeight="833"/>
+    <SubTexture name="Confused Loop0002" x="2818" y="565" rotated="true" width="619" height="561" frameX="-166" frameY="-214" frameWidth="740" frameHeight="833"/>
+    <SubTexture name="Confused Loop0003" x="3439" y="565" rotated="true" width="613" height="561" frameX="-166" frameY="-220" frameWidth="740" frameHeight="833"/>
+    <SubTexture name="Confused Loop0004" x="3439" y="565" rotated="true" width="613" height="561" frameX="-166" frameY="-220" frameWidth="740" frameHeight="833"/>
+    <SubTexture name="Confused Loop0005" x="1136" y="3242" width="561" height="624" frameX="-166" frameY="-209" frameWidth="740" frameHeight="833"/>
+    <SubTexture name="Confused Loop0006" x="1136" y="3242" width="561" height="624" frameX="-166" frameY="-209" frameWidth="740" frameHeight="833"/>
+    <SubTexture name="Confused Static" x="1691" y="565" width="561" height="624" frameX="-9" frameY="-25" frameWidth="582" frameHeight="649"/>
+    <SubTexture name="Exclaim Loop0001" x="565" y="2" rotated="true" width="693" height="561" frameX="-166" frameY="-176" frameWidth="740" frameHeight="873"/>
+    <SubTexture name="Exclaim Loop0002" x="565" y="2" rotated="true" width="693" height="561" frameX="-166" frameY="-176" frameWidth="740" frameHeight="873"/>
+    <SubTexture name="Exclaim Loop0003" x="3329" y="2" rotated="true" width="683" height="561" frameX="-166" frameY="-186" frameWidth="740" frameHeight="873"/>
+    <SubTexture name="Exclaim Loop0004" x="3329" y="2" rotated="true" width="683" height="561" frameX="-166" frameY="-186" frameWidth="740" frameHeight="873"/>
+    <SubTexture name="Exclaim Loop0005" x="1260" y="2" rotated="true" width="691" height="561" frameX="-166" frameY="-178" frameWidth="740" frameHeight="873"/>
+    <SubTexture name="Exclaim Loop0006" x="1260" y="2" rotated="true" width="691" height="561" frameX="-166" frameY="-178" frameWidth="740" frameHeight="873"/>
+    <SubTexture name="Exclaim Static" x="2" y="2841" width="561" height="702" frameX="-166" frameY="-166" frameWidth="740" frameHeight="872"/>
+    <SubTexture name="Frown Loop0001" x="1953" y="2" rotated="true" width="686" height="561" frameX="-166" frameY="-163" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Frown Loop0002" x="1953" y="2" rotated="true" width="686" height="561" frameX="-166" frameY="-163" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Frown Loop0003" x="565" y="565" width="561" height="679" frameX="-166" frameY="-170" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Frown Loop0004" x="565" y="565" width="561" height="679" frameX="-166" frameY="-170" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Frown Loop0005" x="1128" y="565" width="561" height="678" frameX="-166" frameY="-171" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Frown Loop0006" x="1128" y="565" width="561" height="678" frameX="-166" frameY="-171" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Frown Static" x="565" y="1927" width="562" height="678" frameX="-8" frameY="-17" frameWidth="648" frameHeight="699"/>
+    <SubTexture name="Normal Loop0001" x="2641" y="2" rotated="true" width="686" height="561" frameX="-166" frameY="-163" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Normal Loop0002" x="2641" y="2" rotated="true" width="686" height="561" frameX="-166" frameY="-163" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Normal Loop0003" x="565" y="1246" width="561" height="679" frameX="-166" frameY="-170" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Normal Loop0004" x="565" y="1246" width="561" height="679" frameX="-166" frameY="-170" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Normal Loop0005" x="1128" y="1245" width="561" height="678" frameX="-166" frameY="-171" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Normal Loop0006" x="1128" y="1245" width="561" height="678" frameX="-166" frameY="-171" frameWidth="740" frameHeight="853"/>
+    <SubTexture name="Normal Static" x="565" y="2607" width="561" height="678" frameX="-8" frameY="-17" frameWidth="643" frameHeight="699"/>
+    <SubTexture name="Teasing Loop0001" x="1691" y="1191" width="567" height="623" frameX="-221" frameY="-225" frameWidth="795" frameHeight="852"/>
+    <SubTexture name="Teasing Loop0002" x="1691" y="1191" width="567" height="623" frameX="-221" frameY="-225" frameWidth="795" frameHeight="852"/>
+    <SubTexture name="Teasing Loop0003" x="565" y="3287" width="569" height="643" frameX="-221" frameY="-205" frameWidth="795" frameHeight="852"/>
+    <SubTexture name="Teasing Loop0004" x="565" y="3287" width="569" height="643" frameX="-221" frameY="-205" frameWidth="795" frameHeight="852"/>
+    <SubTexture name="Teasing Loop0005" x="1128" y="2607" width="569" height="633" frameX="-221" frameY="-215" frameWidth="795" frameHeight="852"/>
+    <SubTexture name="Teasing Loop0006" x="1128" y="2607" width="569" height="633" frameX="-221" frameY="-215" frameWidth="795" frameHeight="852"/>
+    <SubTexture name="Teasing Static" x="1129" y="1925" width="569" height="632" frameX="-8" frameY="-22" frameWidth="785" frameHeight="658"/>
+    <SubTexture name="Wave Loop0001" x="2" y="2" width="561" height="710" frameX="-166" frameY="-140" frameWidth="740" frameHeight="854"/>
+    <SubTexture name="Wave Loop0002" x="2" y="2" width="561" height="710" frameX="-166" frameY="-140" frameWidth="740" frameHeight="854"/>
+    <SubTexture name="Wave Loop0003" x="2" y="714" width="561" height="709" frameX="-166" frameY="-141" frameWidth="740" frameHeight="854"/>
+    <SubTexture name="Wave Loop0004" x="2" y="714" width="561" height="709" frameX="-166" frameY="-141" frameWidth="740" frameHeight="854"/>
+    <SubTexture name="Wave Loop0005" x="2" y="1425" width="561" height="706" frameX="-166" frameY="-144" frameWidth="740" frameHeight="854"/>
+    <SubTexture name="Wave Loop0006" x="2" y="1425" width="561" height="706" frameX="-166" frameY="-144" frameWidth="740" frameHeight="854"/>
+    <SubTexture name="Wave Static" x="2" y="2133" width="561" height="706" frameX="-166" frameY="-142" frameWidth="740" frameHeight="852"/>
+    <SubTexture name="Worried Loop0001" x="2254" y="565" width="562" height="620" frameX="-190" frameY="-225" frameWidth="764" frameHeight="849"/>
+    <SubTexture name="Worried Loop0002" x="2254" y="565" width="562" height="620" frameX="-190" frameY="-225" frameWidth="764" frameHeight="849"/>
+    <SubTexture name="Worried Loop0003" x="3430" y="1691" rotated="true" width="605" height="562" frameX="-190" frameY="-240" frameWidth="764" frameHeight="849"/>
+    <SubTexture name="Worried Loop0004" x="3430" y="1691" rotated="true" width="605" height="562" frameX="-190" frameY="-240" frameWidth="764" frameHeight="849"/>
+    <SubTexture name="Worried Loop0005" x="2818" y="1128" rotated="true" width="610" height="562" frameX="-190" frameY="-235" frameWidth="764" frameHeight="849"/>
+    <SubTexture name="Worried Loop0006" x="2818" y="1128" rotated="true" width="610" height="562" frameX="-190" frameY="-235" frameWidth="764" frameHeight="849"/>
+    <SubTexture name="Worried Static" x="3430" y="1128" rotated="true" width="610" height="561" frameX="-8" frameY="-13" frameWidth="592" frameHeight="627"/>
+</TextureAtlas>

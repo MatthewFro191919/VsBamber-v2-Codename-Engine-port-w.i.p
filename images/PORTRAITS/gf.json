@@ -1,0 +1,37 @@
+{
+	"position": [
+		0,
+		-100
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "GF_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_name": "Neutral Loop",
+			"idle_name": "Neutral Static"
+		},
+		{
+			"loop_name": "Excited Loop",
+			"idle_offsets": [
+				7,
+				5
+			],
+			"idle_name": "Excited Static",
+			"anim": "excited",
+			"loop_offsets": [
+				22,
+				5
+			]
+		}
+	]
+}

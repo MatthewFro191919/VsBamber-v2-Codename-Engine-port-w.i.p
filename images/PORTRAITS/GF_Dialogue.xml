@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:0dc4b94da615763b268e799f43f15f6b:9f1cf1721fc28e1353abbe6ef3fe1aed:2df2651d0ead1055f2f52a076fd011ec$ -->
+<TextureAtlas imagePath="GF_Dialogue.png" width="1024" height="2048">
+    <SubTexture name="Excited Loop0001" x="299" y="585" width="290" height="518" frameX="-124" frameY="-125" frameWidth="428" frameHeight="654"/>
+    <SubTexture name="Excited Loop0002" x="299" y="1105" width="290" height="518" frameX="-124" frameY="-125" frameWidth="428" frameHeight="654"/>
+    <SubTexture name="Excited Loop0003" x="2" y="2" width="299" height="526" frameX="-124" frameY="-117" frameWidth="428" frameHeight="654"/>
+    <SubTexture name="Excited Loop0004" x="2" y="530" width="295" height="526" frameX="-128" frameY="-117" frameWidth="428" frameHeight="654"/>
+    <SubTexture name="Excited Loop0005" x="2" y="1058" width="295" height="521" frameX="-119" frameY="-122" frameWidth="428" frameHeight="654"/>
+    <SubTexture name="Excited Loop0006" x="303" y="292" rotated="true" width="521" height="291" frameX="-123" frameY="-122" frameWidth="428" frameHeight="654"/>
+    <SubTexture name="Excited Static" x="303" y="2" rotated="true" width="529" height="288" frameX="-110" frameY="-114" frameWidth="409" frameHeight="654"/>
+    <SubTexture name="Neutral Loop0001" x="2" y="1625" rotated="true" width="508" height="293" frameX="-84" frameY="-130" frameWidth="386" frameHeight="646"/>
+    <SubTexture name="Neutral Loop0002" x="2" y="1625" rotated="true" width="508" height="293" frameX="-84" frameY="-130" frameWidth="386" frameHeight="646"/>
+    <SubTexture name="Neutral Loop0003" x="591" y="585" width="286" height="517" frameX="-96" frameY="-120" frameWidth="386" frameHeight="646"/>
+    <SubTexture name="Neutral Loop0004" x="591" y="585" width="286" height="517" frameX="-96" frameY="-120" frameWidth="386" frameHeight="646"/>
+    <SubTexture name="Neutral Loop0005" x="591" y="1104" width="289" height="511" frameX="-82" frameY="-127" frameWidth="386" frameHeight="646"/>
+    <SubTexture name="Neutral Loop0006" x="591" y="1104" width="289" height="511" frameX="-82" frameY="-127" frameWidth="386" frameHeight="646"/>
+    <SubTexture name="Neutral Static" x="512" y="1625" rotated="true" width="509" height="292" frameX="-81" frameY="-126" frameWidth="380" frameHeight="646"/>
+</TextureAtlas>

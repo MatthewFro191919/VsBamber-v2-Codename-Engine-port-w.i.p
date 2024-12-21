@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:ceae51c33926268bf65a83fabe68cc06:9e2b2efe066df09882245df209f7d852:291fc958905ca5d358b3578890242ebf$ -->
+<TextureAtlas imagePath="Bamber_Dialogue.png" width="2048" height="2048">
+    <SubTexture name="Annoyed Loop0001" x="1014" y="1496" rotated="true" width="320" height="304"/>
+    <SubTexture name="Annoyed Loop0002" x="1014" y="1496" rotated="true" width="320" height="304"/>
+    <SubTexture name="Annoyed Loop0003" x="328" y="1573" width="288" height="288" frameX="-16" frameY="-32" frameWidth="304" frameHeight="320"/>
+    <SubTexture name="Annoyed Loop0004" x="328" y="1573" width="288" height="288" frameX="-16" frameY="-32" frameWidth="304" frameHeight="320"/>
+    <SubTexture name="Annoyed Loop0005" x="2" y="1628" width="288" height="281" frameX="-16" frameY="-39" frameWidth="304" frameHeight="320"/>
+    <SubTexture name="Annoyed Loop0006" x="2" y="1628" width="288" height="281" frameX="-16" frameY="-39" frameWidth="304" frameHeight="320"/>
+    <SubTexture name="Annoyed Static" x="1691" y="1531" width="287" height="281"/>
+    <SubTexture name="Confused Loop0001" x="673" y="1513" rotated="true" width="314" height="263" frameX="-21" frameY="-26" frameWidth="284" frameHeight="341"/>
+    <SubTexture name="Confused Loop0002" x="673" y="1513" rotated="true" width="314" height="263" frameX="-21" frameY="-26" frameWidth="284" frameHeight="341"/>
+    <SubTexture name="Confused Loop0003" x="346" y="1051" rotated="true" width="335" height="270" frameX="-13" frameY="-6" frameWidth="284" frameHeight="341"/>
+    <SubTexture name="Confused Loop0004" x="346" y="1051" rotated="true" width="335" height="270" frameX="-13" frameY="-6" frameWidth="284" frameHeight="341"/>
+    <SubTexture name="Confused Loop0005" x="1425" y="859" rotated="true" width="341" height="279" frameX="0" frameY="0" frameWidth="284" frameHeight="341"/>
+    <SubTexture name="Confused Loop0006" x="1425" y="859" rotated="true" width="341" height="279" frameX="0" frameY="0" frameWidth="284" frameHeight="341"/>
+    <SubTexture name="Confused Static" x="1768" y="981" width="278" height="341"/>
+    <SubTexture name="Flabbergasted Loop0001" x="370" y="2" rotated="true" width="366" height="187" frameX="0" frameY="0" frameWidth="207" frameHeight="369"/>
+    <SubTexture name="Flabbergasted Loop0002" x="370" y="2" rotated="true" width="366" height="187" frameX="0" frameY="0" frameWidth="207" frameHeight="369"/>
+    <SubTexture name="Flabbergasted Loop0003" x="2" y="843" rotated="true" width="344" height="198" frameX="-1" frameY="-25" frameWidth="207" frameHeight="369"/>
+    <SubTexture name="Flabbergasted Loop0004" x="2" y="843" rotated="true" width="344" height="198" frameX="-1" frameY="-25" frameWidth="207" frameHeight="369"/>
+    <SubTexture name="Flabbergasted Loop0005" x="1809" y="2" width="206" height="322" frameX="-1" frameY="-47" frameWidth="207" frameHeight="369"/>
+    <SubTexture name="Flabbergasted Loop0006" x="1809" y="2" width="206" height="322" frameX="-1" frameY="-47" frameWidth="207" frameHeight="369"/>
+    <SubTexture name="Flabbergasted Static0001" x="1801" y="657" width="205" height="322"/>
+    <SubTexture name="Flabbergasted Static0002" x="1801" y="657" width="205" height="322"/>
+    <SubTexture name="Flabbergasted Static0003" x="1728" y="1324" rotated="true" width="316" height="205" frameX="0" frameY="-6" frameWidth="205" frameHeight="322"/>
+    <SubTexture name="Flabbergasted Static0004" x="1728" y="1324" rotated="true" width="316" height="205" frameX="0" frameY="-6" frameWidth="205" frameHeight="322"/>
+    <SubTexture name="Flabbergasted Static0005" x="1368" y="1463" rotated="true" width="321" height="205" frameX="0" frameY="-1" frameWidth="205" frameHeight="322"/>
+    <SubTexture name="Flabbergasted Static0006" x="1368" y="1463" rotated="true" width="321" height="205" frameX="0" frameY="-1" frameWidth="205" frameHeight="322"/>
+    <SubTexture name="Happy Loop0001" x="738" y="2" rotated="true" width="361" height="314" frameX="0" frameY="0" frameWidth="337" frameHeight="361"/>
+    <SubTexture name="Happy Loop0002" x="738" y="2" rotated="true" width="361" height="314" frameX="0" frameY="0" frameWidth="337" frameHeight="361"/>
+    <SubTexture name="Happy Loop0003" x="1077" y="608" rotated="true" width="346" height="310" frameX="-25" frameY="-14" frameWidth="337" frameHeight="361"/>
+    <SubTexture name="Happy Loop0004" x="1077" y="608" rotated="true" width="346" height="310" frameX="-25" frameY="-14" frameWidth="337" frameHeight="361"/>
+    <SubTexture name="Happy Loop0005" x="709" y="626" rotated="true" width="344" height="314" frameX="-23" frameY="-16" frameWidth="337" frameHeight="361"/>
+    <SubTexture name="Happy Loop0006" x="709" y="626" rotated="true" width="344" height="314" frameX="-23" frameY="-16" frameWidth="337" frameHeight="361"/>
+    <SubTexture name="Happy Static" x="352" y="736" rotated="true" width="344" height="313"/>
+    <SubTexture name="Laughing Loop0001" x="1806" y="326" width="240" height="329" frameX="-5" frameY="-25" frameWidth="245" frameHeight="355"/>
+    <SubTexture name="Laughing Loop0002" x="1806" y="326" width="240" height="329" frameX="-5" frameY="-25" frameWidth="245" frameHeight="355"/>
+    <SubTexture name="Laughing Loop0003" x="1455" y="2" rotated="true" width="352" height="238" frameX="0" frameY="-3" frameWidth="245" frameHeight="355"/>
+    <SubTexture name="Laughing Loop0004" x="1455" y="2" rotated="true" width="352" height="238" frameX="0" frameY="-3" frameWidth="245" frameHeight="355"/>
+    <SubTexture name="Laughing Loop0005" x="370" y="191" rotated="true" width="355" height="235" frameX="0" frameY="0" frameWidth="245" frameHeight="355"/>
+    <SubTexture name="Laughing Loop0006" x="370" y="191" rotated="true" width="355" height="235" frameX="0" frameY="0" frameWidth="245" frameHeight="355"/>
+    <SubTexture name="Laughing Static" x="2" y="298" rotated="true" width="355" height="235"/>
+    <SubTexture name="Mad Loop0001" x="2" y="1043" width="342" height="333" frameX="-30" frameY="0" frameWidth="372" frameHeight="333"/>
+    <SubTexture name="Mad Loop0002" x="2" y="1043" width="342" height="333" frameX="-30" frameY="0" frameWidth="372" frameHeight="333"/>
+    <SubTexture name="Mad Loop0003" x="2" y="2" width="366" height="294" frameX="0" frameY="-38" frameWidth="372" frameHeight="333"/>
+    <SubTexture name="Mad Loop0004" x="2" y="2" width="366" height="294" frameX="0" frameY="-38" frameWidth="372" frameHeight="333"/>
+    <SubTexture name="Mad Loop0005" x="1455" y="242" width="349" height="307" frameX="-9" frameY="-26" frameWidth="372" frameHeight="333"/>
+    <SubTexture name="Mad Loop0006" x="1455" y="242" width="349" height="307" frameX="-9" frameY="-26" frameWidth="372" frameHeight="333"/>
+    <SubTexture name="Mad Static0001" x="1451" y="551" width="348" height="306"/>
+    <SubTexture name="Mad Static0002" x="1451" y="551" width="348" height="306"/>
+    <SubTexture name="Mad Static0003" x="727" y="318" width="348" height="306"/>
+    <SubTexture name="Mad Static0004" x="727" y="318" width="348" height="306"/>
+    <SubTexture name="Mad Static0005" x="359" y="428" width="348" height="306"/>
+    <SubTexture name="Mad Static0006" x="359" y="428" width="348" height="306"/>
+    <SubTexture name="Mad Static0007" x="2" y="535" width="348" height="306"/>
+    <SubTexture name="Mad Static0008" x="2" y="535" width="348" height="306"/>
+    <SubTexture name="Neutral Loop0001" x="1101" y="272" rotated="true" width="348" height="334" frameX="0" frameY="0" frameWidth="335" frameHeight="348"/>
+    <SubTexture name="Neutral Loop0002" x="1101" y="272" rotated="true" width="348" height="334" frameX="0" frameY="0" frameWidth="335" frameHeight="348"/>
+    <SubTexture name="Neutral Loop0003" x="1393" y="1140" rotated="true" width="333" height="321" frameX="-14" frameY="-14" frameWidth="335" frameHeight="348"/>
+    <SubTexture name="Neutral Loop0004" x="1393" y="1140" rotated="true" width="333" height="321" frameX="-14" frameY="-14" frameWidth="335" frameHeight="348"/>
+    <SubTexture name="Neutral Loop0005" x="1036" y="1181" rotated="true" width="330" height="313" frameX="-16" frameY="-17" frameWidth="335" frameHeight="348"/>
+    <SubTexture name="Neutral Loop0006" x="1036" y="1181" rotated="true" width="330" height="313" frameX="-16" frameY="-17" frameWidth="335" frameHeight="348"/>
+    <SubTexture name="Neutral Static" x="683" y="1198" rotated="true" width="329" height="313"/>
+    <SubTexture name="Poker Loop0001" x="1101" y="2" rotated="true" width="352" height="268" frameX="0" frameY="0" frameWidth="273" frameHeight="352"/>
+    <SubTexture name="Poker Loop0002" x="1101" y="2" rotated="true" width="352" height="268" frameX="0" frameY="0" frameWidth="273" frameHeight="352"/>
+    <SubTexture name="Poker Loop0003" x="1055" y="920" rotated="true" width="336" height="259" frameX="-14" frameY="-16" frameWidth="273" frameHeight="352"/>
+    <SubTexture name="Poker Loop0004" x="698" y="942" rotated="true" width="336" height="254" frameX="-14" frameY="-16" frameWidth="273" frameHeight="352"/>
+    <SubTexture name="Poker Loop0005" x="346" y="1323" rotated="true" width="325" height="248" frameX="-16" frameY="-27" frameWidth="273" frameHeight="352"/>
+    <SubTexture name="Poker Loop0006" x="346" y="1323" rotated="true" width="325" height="248" frameX="-16" frameY="-27" frameWidth="273" frameHeight="352"/>
+    <SubTexture name="Poker Static" x="2" y="1378" rotated="true" width="324" height="248"/>
+</TextureAtlas>
