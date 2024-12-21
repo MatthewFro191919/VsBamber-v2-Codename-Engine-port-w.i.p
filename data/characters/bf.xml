@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="bf" flipX="true" isPlayer="true" icon="bf/icon">
+	<anim name="idle" anim="Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Sing_Up" x="-68" y="60" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Sing_Left" x="-111" y="-6" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Sing_Right" x="-113" y="56" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Sing_Down" x="-52" y="39" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="Miss_Up" x="-68" y="60" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="Miss_Left" x="-111" y="-6" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="Miss_Right" x="-113" y="56" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="Miss_Down" x="-52" y="39" fps="24" loop="false"/>
+	<anim name="beatboxUP" anim="Beatbox_Up" x="-68" y="60" fps="24" loop="false"/>
+	<anim name="beatboxLEFT" anim="Beatbox_Left" x="-111" y="-6" fps="24" loop="false"/>
+	<anim name="beatboxRIGHT" anim="Beatbox_Right" x="-113" y="56" fps="24" loop="false"/>
+	<anim name="beatboxDOWN" anim="Beatbox_Down" x="-52" y="39" fps="24" loop="false"/>
+</character>

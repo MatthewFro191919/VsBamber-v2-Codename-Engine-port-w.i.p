@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="bamber" icon="bamber/icon">
+	<anim name="idle" anim="Bamber Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Bamber Sing Up" x="81" y="73" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Bamber Sing Left" x="135" y="-14" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Bamber Sing Right" x="16" y="9" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Bamber Sing Down" x="-25" y="-57" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="Bamber Miss Up" x="-68" y="60" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="Bamber Miss Left" x="-111" y="-6" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="Bamber Miss Right" x="-113" y="56" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="Bamber Miss Down" x="-52" y="39" fps="24" loop="false"/>
+	<anim name="ziiuvanPaun?" anim="Bamber Phone Break" x="-68" y="60" fps="24" loop="false"/>
+</character>
