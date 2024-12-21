@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="farm/" startCamPosY="600" startCamPosX="1000">
+	<sprite name="Sky"               x="-858" y="-348"   sprite="Sky"       scroll="0.9" />
+	<sprite name="Wheat_Fields_Back"       x="-410" y="185"    sprite="Wheat_Fields_Back"      scroll="0.9" />
+	<sprite name="Wheat_Fields_Fore"       x="-522" y="290"    sprite="Wheat_Fields_Fore"      scroll="0.9" />
+	<sprite name="Farm"       x="-5" y="123"    sprite="Farm"      scroll="0.9" />
+	<sprite name="Foreground"       x="-1005" y="-3.33"    sprite="Foreground"      scroll="0.9" />
+	<girlfriend x="223" y="81" />
+	<dad x="-2" y="398" />
+	<boyfriend x="712" y="358" />
+</stage>
