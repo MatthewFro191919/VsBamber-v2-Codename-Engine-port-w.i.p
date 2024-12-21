@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="splashes.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Splash10000" x="5" y="5" width="281" height="208" frameX="-118" frameY="-83" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10001" x="291" y="5" width="448" height="315" frameX="-36" frameY="-21" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10002" x="744" y="5" width="524" height="350" frameX="-11" frameY="-5" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10003" x="744" y="5" width="524" height="350" frameX="-11" frameY="-5" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10004" x="1273" y="5" width="559" height="365"/>
+	<SubTexture name="Splash10005" x="1273" y="5" width="559" height="365"/>
+	<SubTexture name="Splash10006" x="5" y="375" width="547" height="339" frameX="-10" frameY="-15" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10007" x="5" y="375" width="547" height="339" frameX="-10" frameY="-15" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10008" x="557" y="375" width="512" height="298" frameX="-30" frameY="-35" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10009" x="557" y="375" width="512" height="298" frameX="-30" frameY="-35" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash10010" x="557" y="375" width="512" height="298" frameX="-30" frameY="-35" frameWidth="559" frameHeight="365"/>
+	<SubTexture name="Splash20000" x="1074" y="375" width="281" height="208" frameX="-150" frameY="-65" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20001" x="1360" y="375" width="460" height="329" frameX="-49" frameY="-17" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20002" x="5" y="719" width="506" height="363" frameX="-23" frameY="-4" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20003" x="5" y="719" width="506" height="363" frameX="-23" frameY="-4" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20004" x="516" y="719" width="539" height="381" frameX="-1" frameY="0" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20005" x="516" y="719" width="539" height="381" frameX="-1" frameY="0" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20006" x="1060" y="719" width="530" height="359" frameX="0" frameY="-12" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20007" x="1060" y="719" width="530" height="359" frameX="0" frameY="-12" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20008" x="1595" y="719" width="388" height="302" frameX="-15" frameY="-51" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20009" x="1595" y="719" width="388" height="302" frameX="-15" frameY="-51" frameWidth="540" frameHeight="381"/>
+	<SubTexture name="Splash20010" x="1595" y="719" width="388" height="302" frameX="-15" frameY="-51" frameWidth="540" frameHeight="381"/>
+</TextureAtlas>
