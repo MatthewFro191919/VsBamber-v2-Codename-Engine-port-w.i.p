@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-week-character>
+<char scale="0.6" x="15" y="4">
+	<anim name="idle"       anim="Gf Dancing Beat"  fps="24"    loop="true" />
+	<anim name="confirm"    anim="Gf Dancing Beat"             fps="24"    loop="false"/>
+</char>

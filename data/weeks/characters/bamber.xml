@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-week-character>
+<char scale="0.6" x="-4" y="-142">
+	<anim name="idle"       anim="Bamber Idle instance 1"  fps="24"    loop="true" />
+	<anim name="confirm"    anim="Bamber Idle instance 1"             fps="24"    loop="false"/>
+</char>
